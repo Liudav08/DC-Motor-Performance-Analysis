@@ -91,7 +91,7 @@ data than the base and thermal models.
 
 ## Full Paper
 
-[Read the full IB Physics Extended Essay](paper/IB_Physics_Extended_Essay.pdf)
+[Read the full IB Physics Extended Essay](paper/IB_Physics_DC_Motor_Analysis_Paper.pdf)
 
 ## Tools & Technologies
 

@@ -31,7 +31,13 @@ incorporating thermal losses and magnetic saturation.
 
 ![Experimental apparatus and tools](images/apparatus_and_tools.jpg)
 
-###
+### Measurement Diagram
+
+![Measurement of magnetic field strength](images/air_gap_diagram.png)
+
+### Top View of Apparatus
+
+![Top view of apparatus](images/labelled_top_view_of_experiment.png)
 
 The motor was constructed using:
 - 26-gauge enameled copper wire
@@ -40,6 +46,8 @@ The motor was constructed using:
 - Copper-strip commutator
 - Neodymium magnets
 - 0.0200 kg suspended load
+
+![Ball bearings](images/ball_bearings.jpg)
 
 Magnetic field strength was measured using a PASCO 2-axis magnetic field sensor (PS-3221),
 while rotational speed was measured using a non-contact tachometer.
@@ -58,8 +66,6 @@ while rotational speed was measured using a non-contact tachometer.
 | 0.100 T | 411 RPM | 0.169 W |
 
 ![Complete Experimental Data](data/Experimental_data.csv)
-
-
 
 ## Modeling
 
